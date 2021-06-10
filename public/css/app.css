@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1b1b1b;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.logo {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.logo img {
+  width: 400px;
+}
+
+li {
+  margin: 20px 0;
+}
+
+h3 {
+  color: #41a7e3;
+}
+
+.title {
+  color: yellow;
+}
+
+.name {
+  color: #eb70ac;
+  width: 150px;
+}
+
+.box {
+  display: flex;
+}
+
+.vote {
+  text-decoration: underline;
+}
+
